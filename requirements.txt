@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-cloud-vision
+PyMuPDF
+opencv-python
+numpy
+httpx
