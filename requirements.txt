@@ -6,3 +6,4 @@ PyMuPDF
 opencv-python
 numpy
 httpx
+python-dotenv
